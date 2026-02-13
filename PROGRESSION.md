@@ -1,252 +1,35 @@
-# Progression Dotfiles
+# ⌨️ PROGRESSION : Dotfiles & Dev Environment
 
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex00
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex01
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex02
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex03
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex04
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex05
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex06
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex07
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex08
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex09
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex10
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex11
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex12
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex13
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex14
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex15
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex16
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex17
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex18
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex19
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex20
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex21
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex22
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex23
-- [❌] 01-Level--Shell/25-exercices-bash-scripting/ex24
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex00
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex01
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex02
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex03
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex04
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex05
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex06
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex07
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex08
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex09
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex10
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex11
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex12
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex13
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex14
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex15
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex16
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex17
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex18
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex19
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex20
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex21
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex22
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex23
-- [❌] 01-Level--Shell/25-exercices-tmux-terminal-multiplexing/ex24
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex00
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex01
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex02
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex03
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex04
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex05
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex06
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex07
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex08
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex09
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex10
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex11
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex12
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex13
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex14
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex15
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex16
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex17
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex18
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex19
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex20
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex21
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex22
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex23
-- [❌] 01-Level--Shell/25-exercices-vim-neovim-config/ex24
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex00
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex01
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex02
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex03
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex04
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex05
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex06
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex07
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex08
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex09
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex10
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex11
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex12
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex13
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex14
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex15
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex16
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex17
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex18
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex19
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex20
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex21
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex22
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex23
-- [❌] 01-Level--Shell/25-exercices-zsh-env-management/ex24
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex00
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex01
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex02
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex03
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex04
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex05
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex06
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex07
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex08
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex09
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex10
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex11
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex12
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex13
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex14
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex15
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex16
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex17
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex18
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex19
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex20
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex21
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex22
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex23
-- [❌] 02-Level--System/25-exercices-c-system-tools/ex24
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex00
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex01
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex02
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex03
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex04
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex05
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex06
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex07
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex08
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex09
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex10
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex11
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex12
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex13
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex14
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex15
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex16
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex17
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex18
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex19
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex20
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex21
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex22
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex23
-- [❌] 02-Level--System/25-exercices-ssh-network-config/ex24
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex00
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex01
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex02
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex03
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex04
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex05
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex06
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex07
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex08
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex09
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex10
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex11
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex12
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex13
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex14
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex15
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex16
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex17
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex18
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex19
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex20
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex21
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex22
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex23
-- [❌] 03-Level--DevOps/25-exercices-docker-dev-env/ex24
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex00
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex01
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex02
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex03
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex04
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex05
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex06
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex07
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex08
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex09
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex10
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex11
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex12
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex13
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex14
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex15
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex16
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex17
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex18
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex19
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex20
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex21
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex22
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex23
-- [❌] 03-Level--DevOps/25-exercices-git-expert/ex24
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex00
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex01
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex02
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex03
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex04
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex05
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex06
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex07
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex08
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex09
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex10
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex11
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex12
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex13
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex14
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex15
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex16
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex17
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex18
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex19
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex20
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex21
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex22
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex23
-- [❌] 04-Level--Automation/25-exercices-python-automation/ex24
-- [❌] 05-Level--Security/25-exercices-backup-security/ex00
-- [❌] 05-Level--Security/25-exercices-backup-security/ex01
-- [❌] 05-Level--Security/25-exercices-backup-security/ex02
-- [❌] 05-Level--Security/25-exercices-backup-security/ex03
-- [❌] 05-Level--Security/25-exercices-backup-security/ex04
-- [❌] 05-Level--Security/25-exercices-backup-security/ex05
-- [❌] 05-Level--Security/25-exercices-backup-security/ex06
-- [❌] 05-Level--Security/25-exercices-backup-security/ex07
-- [❌] 05-Level--Security/25-exercices-backup-security/ex08
-- [❌] 05-Level--Security/25-exercices-backup-security/ex09
-- [❌] 05-Level--Security/25-exercices-backup-security/ex10
-- [❌] 05-Level--Security/25-exercices-backup-security/ex11
-- [❌] 05-Level--Security/25-exercices-backup-security/ex12
-- [❌] 05-Level--Security/25-exercices-backup-security/ex13
-- [❌] 05-Level--Security/25-exercices-backup-security/ex14
-- [❌] 05-Level--Security/25-exercices-backup-security/ex15
-- [❌] 05-Level--Security/25-exercices-backup-security/ex16
-- [❌] 05-Level--Security/25-exercices-backup-security/ex17
-- [❌] 05-Level--Security/25-exercices-backup-security/ex18
-- [❌] 05-Level--Security/25-exercices-backup-security/ex19
-- [❌] 05-Level--Security/25-exercices-backup-security/ex20
-- [❌] 05-Level--Security/25-exercices-backup-security/ex21
-- [❌] 05-Level--Security/25-exercices-backup-security/ex22
-- [❌] 05-Level--Security/25-exercices-backup-security/ex23
-- [❌] 05-Level--Security/25-exercices-backup-security/ex24
+**Statut :** `[ Vide]` À faire | `[/ En cours]`  | `[X Terminé]` 
+
+---
+*Focus : Vitesse de navigation et scripts utilitaires.*
+- [ ] **Shell** : 25 exercices Bash (Automatisation de compilation).
+- [ ] **Zsh** : Gestion de l'environnement, alias et PATH.
+- [ ] **Vim/NeoVim** : Maîtrise des raccourcis et config de base pour le C.
+- [ ] **Tmux** : Gestion des sessions pour le monitoring simultané.
+*Focus : Configuration machine et rigueur Git.*
+- [ ] **C-System Tools** : Création de tes propres outils système en C.
+- [ ] **Git Expert** : Hooks Git pour auto-formater ton code C++ (Clang-format).
+- [ ] **Doc-as-Code** : Mise en place de Doxygen pour ton dossier `01_Langages`.
+- [ ] **SSH** : Config avancée pour le travail à distance sur serveur.
+*Focus : Reproductibilité et conteneurisation.*
+- [ ] **Docker** : Créer des environnements de dev isolés pour tes projets API/C++.
+- [ ] **Git Expert (Advanced)** : Stratégies de merge complexes et Submodules.
+- [ ] **Automation** : Scripts Python pour gérer tes déploiements locaux.
+*Focus : Protection des données et sauvegardes.*
+- [ ] **Backup** : Scripts de sauvegarde automatisés de ton dossier `GITHUB`.
+- [ ] **Security** : Gestion des secrets (GPG, Vault) dans tes dotfiles.
+- [ ] **Hardening** : Audit de sécurité de ta config terminal et SSH.
+
+---
+
+## 📊 RÉCAPITULATIF DES EXERCICES (125 TOTAL)
+
+| Dossier | Niveau | Statut | Quantité |
+| :--- | :--- | :--- | :--- |
+| **01-Level--Shell** | Lvl 01 | [ ] | 100 exercices |
+| **02-Level--System** | Lvl 02 | [ ] | 50 exercices |
+| **03-Level--DevOps** | Lvl 03 | [ ] | 50 exercices |
+| **04-Level--Automation** | Lvl 04 | [ ] | 25 exercices |
+| **05-Level--Security** | Lvl 05 | [ ] | 25 exercices |
